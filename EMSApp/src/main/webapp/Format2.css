@@ -1,0 +1,78 @@
+@charset "ISO-8859-1";
+  button {
+    padding: 19px 39px 18px 39px;
+    color: #FFF;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    width: 35%;
+    border: 1px solid #000000;
+    border-width: 1px 1px 3px;
+    box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+    margin-bottom: 10px;
+  }
+
+  .b1 {background-color: #008CBA;} /* Blue */
+
+  .b2 {background-color: #50d638;} /* Blue */
+  
+  *{
+   		margin: 0 auto;
+    	padding: 0;
+	}
+	body
+	{
+		margin:0;
+		padding:0;
+		height: 75vh;
+		background: url(bckg.jpg);
+		background-size:cover;
+		background-attachment: fixed;
+	}
+	.box input[type="text"],.box input[type="password"],.box input[type="email"]
+	{
+    	border:0;
+		background:none;
+		display:block;
+		margin: 11px auto;
+		padding: 10px 0px;
+		width: 40vw;
+		outline:none;
+		color:black;
+		margin-bottom: 0px;
+		background-color: #8a2be29c;
+	}
+	.header{
+    margin: 0;
+    height: 4vh;
+    text-decoration: none;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.575);
+	}
+	.header h3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+	fieldset
+	{ 
+		width: 40vw;
+ 		margin: 0 auto;
+  		background-color: #e6a178;
+		color: black;
+		opacity: .56;
+		padding: 0;
+	}
+	legend
+	{
+		color:black;
+		font-size:34px;
+		text-align:center;
+	}
+	.Register{
+    margin: 0px;
+   	padding: 2.5vh;
+    text-align: -webkit-right;
+    height:43vh;
+	}
+  
