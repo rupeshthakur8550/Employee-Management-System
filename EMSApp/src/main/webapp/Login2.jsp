@@ -135,7 +135,7 @@
         	</div>
     	</div>
 		<div class="footer">
-        	<h5><b> Copyright 2022-23 &copy All Rights are Reserved </b></h5>
+        	<h5><b> Copyright 2023-24 &copy All Rights are Reserved </b></h5>
     	</div>	
 	</form>
 </html>
