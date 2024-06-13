@@ -1,7 +1,3 @@
-Sure, here's a sample README file for your Employee Management System project:
-
----
-
 # Employee Management System
 
 ## Overview
